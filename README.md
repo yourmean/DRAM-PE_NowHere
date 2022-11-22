@@ -5,6 +5,8 @@
 |:----------------:|:----------------------------------------:|
 | 2022.09 | [Titanic1](https://kaggle-kr.tistory.com/17?category=868316) [Titanic2](https://kaggle-kr.tistory.com/18?category=868316)|
 | 2022.10 | [DieTanic](https://www.kaggle.com/code/ash316/eda-to-prediction-dietanic/notebook) |
+| 2022.11 | [과제](https://www.acmicpc.net/problem/13904), [신입사원](https://www.acmicpc.net/problem/1946) |
+
 
 
 
