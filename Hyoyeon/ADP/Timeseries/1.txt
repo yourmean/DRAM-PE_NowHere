@@ -1,3 +1,9 @@
 1. data set 
 2. arima
 3. deep learning
+https://www.kaggle.com/code/dimitreoliveira/deep-learning-for-time-series-forecasting/notebook
+
+
+https://otexts.com/fppkr/graphics-ts-objects.html
+https://www.kaggle.com/code/prashant111/complete-guide-on-time-series-analysis-in-python
+https://enjoyiot.tistory.com/category/Python/04_Pandas%EB%A5%BC%20%ED%86%B5%ED%95%9C%20%EC%8B%9C%EA%B3%84%EC%97%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%28Time%20Series%29%20%EC%B2%98%EB%A6%AC
